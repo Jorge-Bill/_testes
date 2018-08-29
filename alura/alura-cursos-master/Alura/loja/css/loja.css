@@ -1,0 +1,9 @@
+body{
+	padding-top: 70px;
+	background-color: #f4f4f4;
+}
+
+.navbar-default {
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
